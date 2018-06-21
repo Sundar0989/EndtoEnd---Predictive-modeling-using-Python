@@ -7,6 +7,6 @@ This includes codes for
 4) Variable Selection
 5) Model
 6) Performance Tuning
-7) Final Model and Performance Tuning
+7) Final Model and Model Performance
 8) Save Model for future use
 9) Score New data
